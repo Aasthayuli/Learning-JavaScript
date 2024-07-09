@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+}
+
+.dark {
+  background-color: black;
+  color: wheat;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+/* @keyframes myanimation1 {
+  from {
+    background-color: aquamarine;
+    color: black;
+  }
+  to {
+    background-color: burlywood;
+    color: black;
+  }
+}
+.btnBg1 {
+  animation: myanimation1 1s;
+}
+
+@keyframes myanimation2 {
+  from {
+    background-color: burlywood;
+    color: black;
+  }
+  to {
+    background-color: aquamarine;
+    color: black;
+  }
+}
+.btnBg2 {
+  animation: myanimation2 1s;
+} */
+/* .btnbg1 {
+  background-color: aquamarine;
+  color: black;
+}
+.btnbg2 {
+  background-color: burlywood;
+  color: black;
+} */
